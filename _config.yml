@@ -40,13 +40,3 @@ defaults:
       type: post
     values:
       tags: Other
-
-
-<script src="https://utteranc.es/client.js"
-        repo="https://github.com/NamitCodes/NamitCodes.github.io"
-        issue-term="pathname"
-        label="comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
